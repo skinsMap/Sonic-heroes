@@ -1,0 +1,77 @@
+{
+  "AdsController": {
+      
+    "AdNetwork"            : "applovin",
+    
+    "AdMob_ID"             : "pub-3940256099942544",
+    "AdMob_Banner"         : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd" : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"       : "ca-app-pub-3940256099942544/5224354917",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "76af75d288a7ada9",
+
+    
+    "Unity_GameID"         : "4076527",
+    "Unity_Banner"         : "BannerAd",
+    "Unity_InterstitialAd" : "InterstitialAd",
+    "Unity_RewardAd"         : "Rewarded_Android",
+
+    "IronSourceKey"     : "1197d7c85"
+  },
+  
+  "Maps": [
+    {
+      "title": "MineCarft pack forest",
+      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "isLocked" : false ,
+      "coins" : 0 ,
+      "description": "your description her about forest pack",
+      "preview": [
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+      ]
+    },
+    {
+      "title": "MineCarft Prisson",
+      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "isLocked" : true ,
+      "coins" : 200,
+      "description": "your description her about Prisson pack",
+      "preview": [
+        "https://ia801900.us.archive.org/2/items/k_prev2/k_prev1.jpg",
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg",
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+      ]
+    }
+  ],
+  
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    }
+  ]
+}
