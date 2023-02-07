@@ -1,24 +1,24 @@
 {
   "AdsController": {
       
-    "AdNetwork"            : "applovin",
+    "AdNetwork"            : "admob",
     
-    "AdMob_ID"             : "pub-3940256099942544",
-    "AdMob_Banner"         : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd" : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"       : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_ID"             : " pub-3071522790697118",
+    "AdMob_Banner"         : "ca-app-pub-3071522790697118/1154834805",
+    "AdMob_InterstitialAd" : "ca-app-pub-3071522790697118/4734987163",
+    "AdMob_RewardAd"       : "ca-app-pub-3071522790697118/3421905498",
     
-    "Applovin_Banner"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
-    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Banner"         : "",
+    "Applovin_InterstitialAd" : "",
+    "Applovin_RewardAd"       : "",
 
     
-    "Unity_GameID"         : "4076527",
-    "Unity_Banner"         : "BannerAd",
-    "Unity_InterstitialAd" : "InterstitialAd",
-    "Unity_RewardAd"         : "Rewarded_Android",
+    "Unity_GameID"         : "",
+    "Unity_Banner"         : "",
+    "Unity_InterstitialAd" : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"     : "1197d7c85"
+    "IronSourceKey"     : ""
   },
   
   "Maps": [
